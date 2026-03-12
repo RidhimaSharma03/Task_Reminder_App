@@ -7,12 +7,18 @@ This project demonstrates the use of Dart programming language to build the back
 - Task Model using Dart Classes
 - Asynchronous task loading
 - Adding new tasks with async operations
-- Task display functionality
+- Task display functionality\
+- Simulated database operations using Future.delayed()
 
 ## Technologies Used
-- Dart
-- Async / Await
+Dart Programming Language
+
+## Concepts Used
+- Classes and Objects
+- Lists
+- Functions
 - Future
+- Async and Await
 
 ## Project Structure
 task.dart → Task model class  
@@ -26,4 +32,4 @@ main.dart → Main application execution
 - Structuring modular Dart applications
 
 ## Author
-Your Name
+Ridhima Sharma 
